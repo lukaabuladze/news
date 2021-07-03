@@ -1,0 +1,194 @@
+id,title,titleeng,titlerus,whours1,whours2,is_mandatory,urlru,urlgeo,urleng
+1,თბილისი,Tbilisi,Тбилиси,"41.722518, 44.791733",60,1,Tbilisi,tbilisi,Tbilisi
+2,ქუთაისი,Kutaisi,Кутаиси,"42.231473, 42.711896",60,1,Kutaisi,kutaisi,Kutaisi
+3,ბათუმი,Batumi,Батуми,"41.640436, 41.623069",60,1,Batumi,batumi,Batumi
+4,მარნეული,Marneuli,Марнеули,"41.481305, 44.793519",60,1,Marneuli,marneuli,Marneuli
+5,აბასთუმანი,Abastumani,Абастумани,"41.754998, 42.831950",120,1,Abastumani,abastumani,Abastumani
+6,ადიგენი,Adigeni,Адигени,"41.676974, 42.707162",60,1,Adigeni,adigeni,Adigeni
+8,ახმეტა,Akhmeta,Ахмета,"42.034983, 45.208526",60,1,Ahmeta,akhmeta,Akhmeta
+9,ასპინძა,Aspindza,Аспинза,"41.575853, 43.248029",90,1,Aspinza,aspindza,Aspindza
+10,ალავერდის მონასტერი,Alaverdi Monastery,Алаверди  Монастырь ,"42.032483, 45.377130",120,1,Alaverdi_Monastyr,alaverdis_monasteri,Alaverdi_Monastery
+12,გორი,Gori,Гори,"41.987402, 44.114597",90,1,Gori,gori,Gori
+13,ახაშენი,Akhasheni,Ахашени,"41.793661, 45.757574",60,1,Ahasheni,akhasheni,Akhasheni
+14,ანაკლია,Anaklia,Анаклия,"42.397662, 41.582823",120,1,Anaklija,anaklia,Anaklia
+15,ანანური,Ananuri,Ананури,"42.173899, 44.693670",45,1,Ananuri,ananuri,Ananuri
+16,ატენი სიონი,Ateni Sioni,Атенский Сион,"41.904366, 44.096225",90,1,Atenskij_Sion,ateni_sioni,Ateni_Sioni
+17,ბაბანეური,Babaneuri,Бабанеури,"42.083157, 45.380904",60,1,Babaneuri,babaneuri,Babaneuri
+18,ბაგრატის ტაძარი,Bagrati Cathedral,Храм Баграта,"42.277257, 42.704179",90,1,Hram_Bagrata,bagratis_tadzari,Bagrati_Cathedral
+20,ბათუმის აეროპორტი,Batumi Airport,Аэропорт Батуми,"41.609003, 41.613351",60,1,Ajeroport_Batumi,batumis_aeroporti,Batumi_Airport
+22,ბეთანია,Betania,Бетания,"41.690061, 44.611542",90,1,Betanija,betania,Betania
+23,ბირთვისი ,Birtvisi,Биртвиси,"41.610061, 44.533886",90,1,Birtvisi,birtvisi,Birtvisi
+24,ბოდბის მონასტერი,Bodbe Monastery,Бодбе  Монастырь ,"41.606530, 45.933438",120,1,Bodbe_Monastyr,bodbis_monasteri,Bodbe_Monastery
+25,ბოლნისის სიონი,Bolnisi Sioni,Болнисский Сион,"41.388879, 44.512444",90,1,Bolnisskij_Sion,bolnisis_sioni,Bolnisi_Sioni
+26,ბორჯომი,Borjomi,Боржоми,"41.839983, 43.385337",90,1,Borzhomi,borjomi,Borjomi
+27,ბახმარო,Bakhmaro,Бахмаро,"41.851606, 42.324411",120,1,Bahmaro,bakhmaro,Bakhmaro
+28,ორთაჭალის ცენტრალური სადგური,Central Bus Station Ortachala,Автовокзал Ортачала,"41.674744, 44.834733",60,1,Avtovokzal_Ortachala,ortachalis_tsentraluri_sadguri,Central_Bus_Station_Ortachala
+29,ჩაქვი,Chakvi,Чакви,"41.734192, 41.733107",60,1,Chakvi,chakvi,Chakvi
+30,მეღვინეობა შატო მუხრანი,Chateau Mukhrani Winery,Шато Мухрани Винзавод ,"41.942473, 44.585207",120,1,Shato_Muhrani_Vinzavod,meghvineoba_shato_mukhrani,Chateau_Mukhrani_Winery
+31,ჭიათურა,Chiatura,Чиатура,"42.290952, 43.290792",60,1,Chiatura,chiatura,Chiatura
+32,დადიანების სასახლე,Dadiani Palace,Дворец Дадиани,"42.513183, 41.873054",60,1,Dvorec_Dadiani,dadianebis_sasakhle,Dadiani_Palace
+33,დარიალი,Dariali,Дариали,"42.736547, 44.630501",60,1,Dariali,dariali,Dariali
+34,დაშბაშის კანიონი,Dashbashi Canyon,Каньон Дашбаши,"41.593895, 44.121715",120,1,Kanon_Dashbashi,dashbashis_kanioni,Dashbashi_Canyon
+35,დავითგარეჯის მონასტერი,Davidgaredja Monastery,Давид-Гареджийский Монастырь,"41.447575, 45.376185",180,1,David-Garedzhijskij_Monastyr,davitgarejis_monasteri,Davidgaredja_Monastery
+36,დმანისი,Dmanisi,Дманиси,"41.332094, 44.204994",60,1,Dmanisi,dmanisi,Dmanisi
+38,მეგობრობის მონუმენტი,Friendship Monument,Арка Дружбы Народов,"42.494080, 44.452339",45,1,Arka_Druzhby_Narodov,megobrobis_monumenti,Friendship_Monument
+39,გარდაბანი,Gardabani,Гардабани,"41.463587, 45.088490",60,1,Gardabani,gardabani,Gardabani
+40,გელათის მონასტერი,Gelati Monastery,Гелати  Монастырь ,"42.294739, 42.769139",60,1,Gelati_Monastyr,gelatis_monasteri,Gelati_Monastery
+42,მეღვინეობა გრანელი,Graneli Winery,Гранели Винзавод ,"41.936617, 45.830042",120,1,Graneli_Vinzavod,meghvineoba_graneli,Graneli_Winery
+43,გრემი,Gremi,Греми,"42.001798, 45.660735",120,1,Gremi,gremi,Gremi
+44,გრიგოლეთი,Grigoleti,Григолети,"42.040403, 41.736127",60,1,Grigoleti,grigoleti,Grigoleti
+45,გუდაური,Gudauri,Гудаури,"42.476244, 44.478075",60,1,Gudauri,gudauri,Gudauri
+46,გველეთის ჩანჩქერი,Gveleti Waterfall,Гвелети Водопад ,"42.705349, 44.626719",120,1,Gveleti_Vodopad,gveletis_chanchkeri,Gveleti_Waterfall
+48,იყალთო,Ikalto,Икалто,"41.949468, 45.392600",120,1,Ikalto,iqalto,Ikalto
+49,სიღნაღი,Sighnaghi,Сигнаги,"41.617933, 45.921797",160,1,Signagi,sighnaghi,Sighnaghi
+50,მეღვინეობა ხარება,Winery Khareba,Хареба Винодельня ,"41.937895, 45.836980",120,1,Hareba_Vinodelnja,meghvineoba_khareba,Winery_Khareba
+51,თელავი,Telavi,Телави,"41.920690, 45.478180",120,1,Telavi,telavi,Telavi
+52,ნეკრესი,Nekresi,Некреси,"41.972153, 45.767502",120,1,Nekresi,nekresi,Nekresi
+53,ილიას ტბა ,Ilia Lake,Озеро Илии,"41.954365, 45.797136",120,1,Ozero_Ilii,ilias_tba,Ilia_Lake
+54,ჯვარი,Jvari,Джвари,"41.838124, 44.734586",90,1,Dzhvari,jvari,Jvari
+55,კაჭრეთი,Kachreti,Качрети,"41.636321, 45.683002",60,1,Kachreti,kachreti,Kachreti
+56,კაცხის სვეტი,Katskhi Pillar,Кацхский Столп,"42.287161, 43.216127",120,1,Kachskij_Stolp,katskhis_sveti,Katskhi_Pillar
+57,კაზრეთი,Kazreti,Казрети,"41.382555, 44.416738",60,1,Kazreti,kazreti,Kazreti
+58,ხარაგაული,Kharagauli,Харагаули,"42.014194, 43.203349",60,1,Haragauli,kharagauli,Kharagauli
+59,ხერთვისის ციხე,Khertvisi Fortress,Крепость Хертвиси,"41.479322, 43.284793",120,1,Krepost_Hertvisi,khertvisis_tsikhe,Khertvisi_Fortress
+60,ხულო,Khulo,Хуло,"41.644359, 42.314808",60,1,Hulo,khulo,Khulo
+61,ქინძმარაულის მარანი,Kindzmarauli Cellar,Киндзмараули Марани,"41.932479, 45.791430",120,1,Kindzmarauli_Marani,kindzmaraulis_marani,Kindzmarauli_Cellar
+62,კინტრიშის სახელმწიფო ნაკრძალი,Kintrishi Nature Reserve,Национальный Заповедник Кинтриши,"41.754611, 42.061710",120,1,Nacionalnyj_Zapovednik_Kintrishi,kintrishis_sakhelmtsipo_nakrdzali,Kintrishi_Nature_Reserve
+64,ქობულეთი,Kobuleti,Кобулети,"41.847912, 41.779144",60,1,Kobuleti,kobuleti,Kobuleti
+65,კოხი,Kokhi,Кохи,"41.803742, 41.887736",60,1,Kohi,kokhi,Kokhi
+66,ქუთაისის აეროპორტი,Kutaisi Airport,Аэропорт Кутаиси,"42.183012, 42.463878",60,1,Ajeroport_Kutaisi,kutaisis_aeroporti,Kutaisi_Airport
+67,ყვარელი,Kvareli,Кварели,"41.948541, 45.819298",60,1,Kvareli,qvareli,Kvareli
+68,კვარიათი,Kvariati,Квариати,"41.546235, 41.563972",60,1,Kvariati,kvariati,Kvariati
+69,ქვემო მაღარო,Kvemo Magharo,Квемо-Магаро,"41.572231, 45.839425",60,1,Kvemo-Magaro,kvemo_magharo,Kvemo_Magharo
+70,ქვემო მლეთა,Kvemo Mleta,Квемо-Млета,"42.428818, 44.510733",60,1,Kvemo-Mleta,kvemo_mleta,Kvemo_Mleta
+71,ლაგოდეხი,Lagodekhi,Лагодехи,"41.822911, 46.274371",60,1,Lagodehi,lagodekhi,Lagodekhi
+72,ლანჩხუთი,Lanchkhuti,Ланчхути,"42.088603, 42.031546",60,1,Lanchhuti,lanchkhuti,Lanchkhuti
+73,ლაფანყური,Lapankuri,Лапанкури,"42.061918, 45.586932",60,1,Lapankuri,lapanquri,Lapankuri
+74,ლოპოტას ტბა,Lopota Lake,Озеро Лопота,"42.055872, 45.527368",120,1,Ozero_Lopota,lopotas_tba,Lopota_Lake
+75,მაჭახელას ეროვნული პარკი,Machakhela National Park,Национальный Парк Мачахела,"41.519635, 41.793830",120,1,Nacionalnyj_Park_Machahela,machakhelas_erovnuli_parki,Machakhela_National_Park
+76,მახინჯაური,Makhinjauri,Махинджаури,"41.677367, 41.696935",60,1,Mahindzhauri,makhinjauri,Makhinjauri
+77,მახუნცეთის ჩანჩქერი,Makhuntseti Waterfall,Махунцети Водопад ,"41.574920, 41.859493",120,1,Mahunceti_Vodopad,makhuntsetis_chanchkeri,Makhuntseti_Waterfall
+78,მარტვილის კანიონი,Martvili Canyon,Мартвильский Каньон,"42.457285, 42.378819",120,1,Martvilskij_Kanon,martvilis_kanioni,Martvili_Canyon
+79,მესტია,Mestia,Местиа,"43.033888, 42.689931",150,1,Mestia,mestia,Mestia
+80,მოწამეთას მონასტერი,Motsameta Monastery,Моцамета  Монастырь ,"42.282840, 42.758083",60,1,Mocameta_Monastyr,motsametas_monasteri,Motsameta_Monastery
+81,მტირალას ეროვნული პარკი,Mtirala National Park,Национальный Парк Мтирала,"41.681904, 41.841840",120,1,Nacionalnyj_Park_Mtirala,mtiralas_erovnuli_parki,Mtirala_National_Park
+82,მცხეთა,Mtskheta,Мцхета,"41.844880, 44.720686",60,1,Mcheta,mtskheta,Mtskheta
+83,მწვანე კონცხი,Mtsvane Kontskhi,Зелёный Мыс,"41.692634, 41.708522",90,1,Zeljonyj_Mys,mtsvane_kontskhi,Mtsvane_Kontskhi
+84,მუხრანი,Mukhrani,Мухрани,"41.933975, 44.571833",60,1,Muhrani,mukhrani,Mukhrani
+85,ნაფარეული,Napareuli,Напареули,"42.045937, 45.501391",120,1,Napareuli,napareuli,Napareuli
+86,ნატახტარი,Natakhtari,Натахтари,"41.919809, 44.727820",60,1,Natahtari,natakhtari,Natakhtari
+87,ოზურგეთი,Ozurgeti,Озургети,"41.921727, 42.006055",120,1,Ozurgeti,ozurgeti,Ozurgeti
+88,ფარავნის ტბა,Paravani Lake,Озеро Паравани,"41.441770, 43.848854",120,1,Ozero_Paravani,paravnis_tba,Paravani_Lake
+89,ფასანაური,Pasanauri,Пасанаури,"42.352509, 44.688676",60,1,Pasanauri,pasanauri,Pasanauri
+91,პეტრას ციხე,Petra Fortress,Крепость Петра,"41.768168, 41.754492",90,1,Krepost_Petra,petras_tsikhe,Petra_Fortress
+92,ფოკა,Poka,Пока,"41.395546, 43.795538",60,1,Poka,poka,Poka
+93,ფოკას წმინდა ნინოს მონასტერი,Poka St. Nino Monastery,Фока  Монастырь ,"41.404285, 43.806902",90,1,Foka_Monastyr,pokas_tsminda_ninos_monasteri,Poka_St_Nino_Monastery
+94,ფოთი,Poti,Поти,"42.142790, 41.673902",90,1,Poti,poti,Poti
+95,პრომეთეს მღვიმე,Prometheus Cave,Пещера Прометея,"42.376383, 42.600548",130,1,Peshhera_Prometeja,prometes_mghvime,Prometheus_Cave
+96,რაბათის ციხე,Rabati Castle,Крепость Рабат,"41.643338, 42.978183",100,1,Krepost_Rabat,rabatis_tsikhe,Rabati_Castle
+97,წითელი ხიდის სასაზღვრო პუნქტი,Red Bridge Customs Post,Красный Мост ТПП,"41.329572, 45.069314",90,1,Krasnyj_Most_TPP,tsiteli_khidis_sasazghvro_punkti,Red_Bridge_Customs_Post
+98,რკონის მონასტერი,Rkoni Monastery,Ркони  Монастырь ,"41.807557, 44.225260",90,1,Rkoni_Monastyr,rkonis_monasteri,Rkoni_Monastery
+99,რუსთავი,Rustavi,Рустави,"41.554928, 44.983774",60,1,Rustavi,rustavi,Rustavi
+100,სადახლო,Sadakhlo,Садахло,"41.244512, 44.795820",90,1,Sadahlo,sadakhlo,Sadakhlo
+101,საგარეჯო,Sagarejo,Сагареджо,"41.724450, 45.326921",90,1,Sagaredzho,sagarejo,Sagarejo
+102,საგურამო,Saguramo,Сагурамо,"41.901945, 44.761786",60,1,Saguramo,saguramo,Saguramo
+103,საირმე,Sairme,Саирме,"41.906341, 42.744005",120,1,Sairme,sairme,Sairme
+104,სამების მთა,Sameba Mountain,Гора Самеба,"41.631779, 41.694003",0,1,Gora_Sameba,samebis_mta,Sameba_Mountain
+105,სამთავროს მონასტერი,Samtavro Monastery,Самтавро Монастырь ,"41.846531, 44.719057",60,1,Samtavro_Monastyr,samtavros_monasteri,Samtavro_Monastery
+106,სამტრედია,Samtredia,Самтредиа,"42.161616, 42.343019",60,1,Samtredia,samtredia,Samtredia
+107,სარფი,Sarpi,Сарпи,"41.523849, 41.548737",90,1,Sarpi,sarpi,Sarpi
+108,სათაფლია,Sataplia,Сатаплия,"42.312067, 42.673997",60,1,Sataplija,sataplia,Sataplia
+109,სენაკი,Senaki,Сенаки,"42.266945, 42.063049",60,1,Senaki,senaki,Senaki
+110,შეკვეთილი,Shekvetili,Шекветили,"41.931517, 41.772514",60,1,Shekvetili,shekvetili,Shekvetili
+111,შიომღვიმის მონასტერი,Shiomghvime Monastery,Шиомгвиме  Монастырь ,"41.861913, 44.640253",90,1,Shiomgvime_Monastyr,shiomghvimis_monasteri,Shiomghvime_Monastery
+112,სნო,Sno,Сно,"42.605898, 44.638360",60,1,Sno,sno,Sno
+113,სტალინის მუზეუმი,Stalin Museum,Музей Сталина,"41.986931, 44.112849",90,1,Muzej_Stalina,stalinis_muzeumi,Stalin_Museum
+114,სტეფანწმინდა (ყაზბეგი),Stepantsminda (Kazbegi),Степанцминда (Казбеги),"42.658325, 44.640967",100,1,Stepancminda_(Kazbegi),stepantsminda_(qazbegi),Stepantsminda_(Kazbegi)
+115,ყაზბეგი (სტაფანწმინდა),Kazbegi (Stepantsminda),Казбеги (Степанцминда),"42.655879, 44.640420",100,1,Kazbegi_(Stepancminda),qazbegi_(stapantsminda),Kazbegi_(Stepantsminda)
+116,სურამი,Surami,Сурами,"42.028370, 43.552613",60,1,Surami,surami,Surami
+117,სვეტიცხოველი,Svetitskhoveli Cathedral,Светицховели,"41.842451, 44.720196",120,1,Svetichoveli,svetitskhoveli,Svetitskhoveli_Cathedral
+118,თბილისის აეროპორტი,Tbilisi Airport,Аэропорт Тбилиси,"41.670001, 44.964757",90,1,Ajeroport_Tbilisi,tbilisis_aeroporti,Tbilisi_Airport
+120,თეთრი წყარო,Tetritskaro,Тетрицкаро,"41.552134, 44.486051",60,1,Tetrickaro,tetri_tsqaro,Tetritskaro
+121,თიანეთი,Tianeti,Тианети,"42.110044, 44.967840",60,1,Tianeti,tianeti,Tianeti
+122,ტიბაანი,Tibaani,Тибаани,"41.577773, 46.002941",60,1,Tibaani,tibaani,Tibaani
+123,ტყიბული,Tkibuli,Ткибули,"42.349260, 42.997594",60,1,Tkibuli,tqibuli,Tkibuli
+124,წალკა,Tsalka,Цалка,"41.599702, 44.089730",60,1,Calka,tsalka,Tsalka
+125,წინანდალი,Tsinandali,Цинандали,"41.896798, 45.574079",90,1,Cinandali,tsinandali,Tsinandali
+126,წყალტუბო,Tskaltubo,Цкалтубо,"42.328196, 42.601451",60,1,Ckaltubo,tsqaltubo,Tskaltubo
+127,უფლისციხე,Uplistsikhe,Уплисцихе,"41.968127, 44.207183",120,1,Upliscihe,uplistsikhe,Uplistsikhe
+128,ურეკი,Ureki,Уреки,"41.995456, 41.779569",60,1,Ureki,ureki,Ureki
+130,ვეჯინი,Vejini,Веджини,"41.716347,45.825515",60,1,Vedzhini,vejini,Vejini
+131,ველისციხე,Velistsikhe,Велисцихе,"41.808651, 45.751447",60,1,Veliscihe,velistsikhe,Velistsikhe
+132,მირვეთის ჩანჩქერი,Mirveti Waterfall,Мирвети Водопад ,"41.529433, 41.712657",120,1,Mirveti_Vodopad,mirvetis_chanchkeri,Mirveti_Waterfall
+133,ზანავი,Zanavi,Занави,"41.699951, 42.714404",40,1,Zanavi,zanavi,Zanavi
+134,ზედაზნის მონასტერი,Zedazeni Monastery,Зедазенский Монастырь,"41.871154, 44.767112",60,1,Zedazenskij_Monastyr,zedaznis_monasteri,Zedazeni_Monastery
+135,ზეგანი,Zegani,Зегани,"43.019777, 42.819246",30,1,Zegani,zegani,Zegani
+136,ზესტაფონი,Zestafoni,Зестафони ,"42.107574, 43.047849",60,1,Zestafoni,zestaponi,Zestafoni
+137,ზუგდიდი,Zugdidi,Зугдиди ,"42.511833, 41.872557",60,1,Zugdidi,zugdidi,Zugdidi
+138,ჟინვალის წყალსაცავი,Zhinvali Reservoir,Жинвальское водохранилище,"42.148858, 44.761581",30,1,Zhinvalskoe_vodohranilishhe,zhinvalis_tsqalsatsavi,Zhinvali_Reservoir
+140,ოკაცეს კანიონი,Okatse Canyon,Каньон Окаце,"42.455410, 42.527474",100,1,Kanon_Okace,okatses_kanioni,Okatse_Canyon
+141,კინჩხას ჩანჩქერი ,Kinchkha Waterfall,Кинчха Водопад ,"42.492751, 42.552557",60,1,Kinchha_Vodopad,kinchkhas_chanchkeri,Kinchkha_Waterfall
+142,აბაშა,Abasha,Абаша,"42.207036, 42.198660",30,1,Abasha,abasha,Abasha
+143,გერგეტის სამების ეკლესია,Gergeti Trinity Church,Троицкая церковь Гергети,"42.662583, 44.620267",60,1,Troickaja_cerkov_Gergeti,gergetis_samebis_eklesia,Gergeti_Trinity_Church
+146,ხაშური,Khashuri,Хашури,"41.986018, 43.595217",60,1,Hashuri,khashuri,Khashuri
+147,კასპი,Kaspi,Каспи,"41.919743, 44.421867",60,1,Kaspi,kaspi,Kaspi
+148,ხონი,Khoni,Хони,"42.326447, 42.422656",30,1,Honi,khoni,Khoni
+149,ბოლნისი,Bolnisi,Болниси,"41.449767, 44.548515",60,1,Bolnisi,bolnisi,Bolnisi
+150,ახალქალაქი,Akhalkalaki,Ахалкалаки,"41.403333, 43.488823",60,1,Ahalkalaki,akhalkalaki,Akhalkalaki
+151,გურჯაანი,Gurjaani,Гурджаани,"41.743906, 45.795757",60,1,Gurdzhaani,gurjaani,Gurjaani
+152,ქარელი,Kareli,Карели,"42.019055, 43.887629",60,1,Kareli,kareli,Kareli
+153,დუშეთი,Dusheti,Душети,"42.086582, 44.692162",60,1,Dusheti,dusheti,Dusheti
+154,საჩხერე,Sachkhere,Сачхере,"42.336093, 43.404547",60,1,Sachhere,sachkhere,Sachkhere
+155,დედოფლისწყარო,Dedoflistskaro,Дедоплис Цкаро,"41.461851, 46.116793",60,1,Dedoplis_Ckaro,dedoplistsqaro,Dedoflistskaro
+156,ნინოწმინდა,Ninotsminda,Ниноцминда,"41.736238, 45.297425",60,1,Ninocminda,ninotsminda,Ninotsminda
+157,წნორი,Tsnori,Цнори,"41.618825, 45.977999",60,1,Cnori,tsnori,Tsnori
+158,თერჯოლა,Terjola,Тержола,"42.166900, 42.963364",60,1,Terzhola,terjola,Terjola
+159,მარტვილი,Martvili,Мартвили,"42.421028, 42.380083",60,1,Martvili,martvili,Martvili
+160,ხობი,Khobi,Хоби,"42.325109, 41.887220",60,1,Hobi,khobi,Khobi
+161,წალენჯიხა,Tsalenjikha,Цаленджиха,"42.610386, 42.035989",60,1,Calendzhiha,tsalenjikha,Tsalenjikha
+162,ვანი,Vani,Вани,"42.090052, 42.506767",60,1,Vani,vani,Vani
+163,ბაღდათი,Baghdati,Багдати,"42.070539, 42.824106",60,1,Bagdati,baghdati,Baghdati
+164,ვალე,Vale,Вале,"41.617606, 42.872708",60,1,Vale,vale,Vale
+166,ცაგერი,Tsageri,Цагери,"42.647524, 42.768188",60,1,Cageri,tsageri,Tsageri
+167,ბეშუმი,Beshumi,Бешуми,"41.612338, 42.553049",60,1,Beshumi,beshumi,Beshumi
+168,ბობოყვათი,Bobokvati,Бобоквати,"41.769430, 41.782278",60,1,Bobokvati,boboqvati,Bobokvati
+169,გონიო,Gonio,Гонио,"41.567842, 41.571182",60,1,Gonio,gonio,Gonio
+170,ციხისძირი ,Tsikhisdziri,Цихисдзири,"41.768478, 41.766726",60,1,Cihisdziri,tsikhisdziri,Tsikhisdziri
+171,გომის მთა,Gomi Mountain,Гора Гоми,"41.824016, 42.158483",60,1,Gora_Gomi,gomis_mta,Gomi_Mountain
+172,ნაბეღლავი ,Nabeghlavi,Набеглави,"41.947745, 42.351887",60,1,Nabeglavi,nabeghlavi,Nabeghlavi
+173,ნასაკირალი,Nasakirali,Насакирали,"41.959801, 42.064939",60,1,Nasakirali,nasakirali,Nasakirali
+174,წყალწმინდა ,Tskaltsminda,Цкалцминда,"42.011071, 41.779589",60,1,Ckalcminda,tsqaltsminda,Tskaltsminda
+176,ზვარე ,Zvare,Зваре,"41.972029, 43.398335",60,1,Zvare,zvare,Zvare
+177,ნუნისი,Nunisi,Нуниси,"41.952633, 43.409206",60,1,Nunisi,nunisi,Nunisi
+178,ახტალა,Аkhtala,Ахтала,"41.744703, 45.794240",60,1,Ahtala,akhtala,Аkhtala
+182,მენჯი ,Mendji,Менджи,"42.278546, 42.044464",60,1,Mendzhi,menji,Mendji
+183,ცემი,Tsemi,Цеми,"41.800934, 43.466313",60,1,Cemi,tsemi,Tsemi
+184,წაღვერი,Tsagveri,Цагвери,"41.801547, 43.480110",60,1,Cagveri,tsaghveri,Tsagveri
+185,გურგენიანის ჩანჩქერი,Gurgeniani Waterfall,Гургениани Водопад ,"41.841424, 46.209783",60,1,Gurgeniani_Vodopad,gurgenianis_chanchkeri,Gurgeniani_Waterfall
+186,ნიკორწმინდა,Nikortsminda,Никорцминда,"42.460777, 43.088791",60,1,Nikorcminda,nikortsminda,Nikortsminda
+189,კობი,Kobi,Коби,"42.562252, 44.493540",30,1,Kobi,kobi,Kobi
+190,ბლექ სი არენა,Black Sea Arena,Блэк Си Арена,"41.938563, 41.771552",0,1,Bljek_Si_Arena,blek_si_arena,Black_Sea_Arena
+191,ლარსი (საბაჟო გამშვები პუნქტი),Lars Customs Post,Ларс  ТПП,"42.746847, 44.623362",30,1,Lars_TPP,larsi_(sabazho_gamshvebi_punkti),Lars_Customs_Post
+195,ახალციხე.,akhaltsikhe.,Ахалцихе.,"41.641653, 42.982271",60,1,Ahalcihe,akhaltsikhe,akhaltsikhe
+197,ვარძია.,vardzia.,Вардзиа.,"41.378470, 43.283737",100,1,Vardzia,vardzia,vardzia
+198,ბაკურიანი,Bakuriani,Бакуриани,"41.728350, 43.531280",100,1,Bakuriani,bakuriani,Bakuriani
+202,მარტყოფი,Martkopi,Марткопи,"41.789501, 45.011787",60,1,Martkopi,martqopi,Martkopi
+203,ყინწვისის ღვთისმშობლის მონასტერი,Kintsvisi Virgin Mary Monastery,Кинцвисский монастырь Девы Марии,"41.971653, 43.822517",60,1,Kincvisskij_monastyr_Devy_Marii,qintsvisis_ghvtismshoblis_monasteri,Kintsvisi_Virgin_Mary_Monastery
+204,შუამთის მონასტერი,Shuamta Monastery ,Шуамта  Монастырь ,"41.911024, 45.405982",60,1,Shuamta_Monastyr,shuamtis_monasteri,Shuamta_Monastery
+205,ალ.ჭავჭავაძის სახმუზეუმი,Al. Chavchavadze Museum,Музей А. Чавчавадзе,"41.896587, 45.566960",60,1,Muzej_A_Chavchavadze,al_chavchavadzis_sakhmuzeumi,Al_Chavchavadze_Museum
+206,ბათუმის ბოტანიკური ბაღი,Batumi Botanical Garden,Батумский ботанический сад,"41.694725, 41.707474",60,1,Batumskij_botanicheskij_sad,batumis_botanikuri_baghi,Batumi_Botanical_Garden
+207,ბათუმის სამების ეკლესია,Batumi Trinity Church ,Батумская Троицкая церковь ,"41.640411, 41.693667",60,1,Batumskaja_Troickaja_cerkov,batumis_samebis_eklesia,Batumi_Trinity_Church
+209,მარტვილის მონასტერი,Martvili Monastery,Мартвильский монастырь,"42.405800, 42.377709",60,1,Martvilskij_monastyr,martvilis_monasteri,Martvili_Monastery
+210,სალხინო (დადიანების რეზიდენცია),Salkhino (Palace Dadiani),Салхино (Резиденция Дадиани) ,"42.510290, 42.344569",60,1,Salhino_(Rezidencija_Dadiani),salkhino_(dadianebis_rezidentsia),Salkhino_(Palace_Dadiani)
+211,კახუს ჩანჩქერი,Kakhu Waterfall,Каху Водопад ,"42.491057, 42.423457",60,1,Kahu_Vodopad,kakhus_chanchkeri,Kakhu_Waterfall
+214,ერევანი,Yerevan,Ереван,"40.187232, 44.515197",60,0,Erevan,erevani,Yerevan
+215,ბაქო,Baku,Баку,"40.391890, 49.865795",60,0,Baku,bako,Baku
+217,ქედა,Keda,Кеда,"41.599077, 41.939208",60,1,Keda,keda,Keda
+218,ერვანის აეროპორტი,Yerevan Airport,Аэропорт Ереван,"40.153250, 44.399049",60,0,Ajeroport_Erevan,ervanis_aeroporti,Yerevan_Airport
+219,ბაქოს აეროპორტი,Baku Airport,Аэропорт Баку,"40.466793, 50.052073",60,0,Ajeroport_Baku,bakos_aeroporti,Baku_Airport
+220,ამბროლაური,Ambrolauri,Aмбролаури,"42.514582, 43.145587",60,1,Ambrolauri,ambrolauri,Ambrolauri
+221,ონი,Oni,Они,"42.578280, 43.434934",60,1,Oni,oni,Oni
+222,შოვი,Shovi,Шови,"42.701923, 43.675702",60,1,Shovi,shovi,Shovi
+223,დილიკაურის ჩანჩქერი,Dilikauri Waterfall,Диликаури Водопад ,"42.171193, 43.122705",60,1,Dilikauri_Vodopad,dilikauris_chanchkeri,Dilikauri_Waterfall
+224,შეკვეთილის დენდროლოგიური პარკი,shekvetili arboretum ,дендрологический парк  шекветили,"41.971757, 41.782434",120,1,dendrologicheskij_park_shekvetili,shekvetilis_dendrologiuri_parki,shekvetili_arboretum
+225,შაორის ტბა,SHAORI LAKE,ОЗЕРО ШАОРИ,"42.422406, 43.077977",60,1,OZERO_ShAORI,shaoris_tba,SHAORI_LAKE

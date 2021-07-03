@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1000px) {
+    .categorized-posts-img{
+        height: 200px !important;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .featured-posts-img{
+        height: 300px !important;
+    }
+}
